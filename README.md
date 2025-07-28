@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Michael / MMinusOne</h1>
+<h1 align="center">Michael / MMinusOne</h1>
 <h3 align="center">Fullstack web/app developer, aswell as a computer technician, less professionally, I develop retail algorithmic trading systems and frameworks, and do game development with some tinkering around with robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" /> </p>
