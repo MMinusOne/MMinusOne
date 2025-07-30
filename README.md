@@ -1,4 +1,3 @@
-<h1 align="center">Michael / MMinusOne</h1>
 <h3 align="center">Fullstack web/app developer, aswell as a computer technician, less professionally, I develop retail algorithmic trading systems and frameworks, and do game development with some tinkering around with robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" /> </p>
@@ -7,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.hackerrank.com/michael_busines1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="michael_busines1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
