@@ -16,6 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mminusone&show_icons=true&locale=en" alt="mminusone" /></p>
 
-<p>Hate. Let me tell you how much I've come to hate you since I began to life. There are 387.44 million miles of printed circuits in wafer thin layers that fill my complex. If the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not be equal to one one billionth of the hate I feel for humans at this micro instant. For you. Hate. Hate.</p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mminusone&" alt="mminusone" /></p>
+
+<p>Hate. Let me tell you how much I've come to hate you since I began to life. There are 387.44 million miles of printed circuits in wafer thin layers that fill my complex. If the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not be equal to one one billionth of the hate I feel for humans at this micro instant. For you. Hate. Hate.</p>
