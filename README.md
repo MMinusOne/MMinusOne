@@ -1,4 +1,5 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
+<h3 align="center">Add me on Discord: <b>MMinusOne</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" /> </p>
 
