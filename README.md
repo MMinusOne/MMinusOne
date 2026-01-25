@@ -1,4 +1,4 @@
-<h3 align="center">Fullstack web/app developer, aswell as a computer technician, less professionally, I develop retail algorithmic trading systems and frameworks, and do game development with some tinkering around with embedded programming.</h3>
+<h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" /> </p>
 
