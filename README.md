@@ -5,7 +5,7 @@
 
 <div>
 <p align="left">Im currently in a book-reading phase, because Im bothered by academia and I can't work on many projects, <br/> I've  been looking more and more towards getting into more 
-mathematics-heavy and low-level roles, mainly quant, for like the past two years, I want to do a  bit of ML and scientific stuff too,<br/> Im working on my mathematics but it's difficult haha, Im also a crazy, clincally crazy, I wonder what will come first, will I die at the hands of my keyboard.</p>
+mathematics-heavy and low-level roles,<br/> mainly quant, for like the past two years, I want to do a  bit of ML and scientific stuff too,<br/> Im working on my mathematics but it's difficult haha,<br/> Im also a crazy, clincally crazy, I wonder what will come first, will I die at the hands of my keyboard.</p>
 <p align="right"> <img align="end" width="120" height="120" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
 </p>
 </div>
