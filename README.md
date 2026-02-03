@@ -4,12 +4,12 @@
 <h5 align="end">Could add me on Discord: <b>MMinusOne</b> :3</h3>
 
 <div>
-  <img align="right" width="120" height="120" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
+  <img align="right" width="150" height="150" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
   <p>
     Im currently in a book-reading phase, because Im bothered by academia and I can't work on many projects.<br/>
     I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
     mainly quant, for like the past two years. I want to do a bit of ML and scientific stuff too.<br/>
-    Im working on my mathematics but it's difficult haha.<br/>
+    Im working on my mathematics but it's difficult haha, a bit over-extending my time with that<br/>
     Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard.
   </p>
 </div>
