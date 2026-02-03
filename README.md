@@ -1,5 +1,6 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
-<h3 align="center">Add me on Discord: <b>MMinusOne</b></h3>
+<h4 align="center">Currently improving-on: System Design, Computer Architecture, Networking, Type-Theory, Boolean Algebra, Machine Learning, Complexity Theory</h3>
+<h5 align="end">Could add me on Discord: <b>MMinusOne</b> :3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" /> </p>
 
