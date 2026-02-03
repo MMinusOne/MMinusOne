@@ -3,12 +3,20 @@
 <h4 align="center">Currently improving-on: System Design, Computer Architecture, Networking, Type-Theory, Boolean Algebra, Machine Learning, Complexity-Theory</h3>
 <h5 align="end">Could add me on Discord: <b>MMinusOne</b> :3</h3>
 
-<div>
-<p align="left">Im currently in a book-reading phase, because Im bothered by academia and I can't work on many projects, <br/> I've  been looking more and more towards getting into more 
-mathematics-heavy and low-level roles,<br/> mainly quant, for like the past two years, I want to do a  bit of ML and scientific stuff too,<br/> Im working on my mathematics but it's difficult haha,<br/> Im also a crazy, clincally crazy, I wonder what will come first, will I die at the hands of my keyboard.</p>
-<p align="right"> <img align="end" width="120" height="120" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
-</p>
-</div>
+<table>
+  <tr>
+    <td>
+      Im currently in a book-reading phase, because Im bothered by academia and I can't work on many projects.<br/>
+      I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
+      mainly quant, for like the past two years. I want to do a bit of ML and scientific stuff too.<br/>
+      Im working on my mathematics but it's difficult haha.<br/>
+      Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard.
+    </td>
+    <td>
+      <img width="120" height="120" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline-flex; align-items: center;">
     <img src="https://komarev.com/ghpvc/?username=mminusone&label=Profile%20views&color=0e75b6&style=flat" alt="mminusone" style="margin-right: 10px;" />
