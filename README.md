@@ -1,5 +1,5 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
-<h4 align="center">I have dealth with so much software, there is not a single mental illness I didn't manage to achieve.</h4>
+<h4 align="center">I have dealt with so much software and computer science, there is not a single mental illness I didn't manage to achieve.</h4>
 <h4 align="center">Currently improving-on: System Design, Computer Architecture, Networking, Type-Theory, Boolean Algebra, Machine Learning, Complexity-Theory</h3>
 <h5 align="end">Could add me on Discord: <b>MMinusOne</b> :3</h3>
 
