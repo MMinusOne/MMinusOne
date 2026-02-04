@@ -1,7 +1,7 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
 <h4 align="center">I have dealt with so much software and computer science, there is not a single mental illness I didn't manage to achieve.</h4>
 <h4 align="center">Currently improving-on: System Design, Computer Architecture, Networking, Type-Theory, Boolean Algebra, Machine Learning, Complexity-Theory</h3>
-<span align="right">Could add me on Discord: <b><u>MMinusOne</u></b> :3</span>
+<h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
   <img align="right" width="150" height="150" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
