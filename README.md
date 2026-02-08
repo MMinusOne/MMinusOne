@@ -30,4 +30,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mminusone&" alt="mminusone" /></p>
 
-<p align="center" >Hate. Let me tell you how much I've come to hate you since I began to live. There are 387.44 million miles of printed circuits in wafer thin layers that fill my complex. If the word hate was engraved on each nanoangstrom of those hundreds of millions of miles it would not be equal to one one billionth of the hate I feel for humans at this micro instant. For you. Hate. Hate.</p>
+<p align="center">
+I like the footless bird, do you know why? <br />
+Because it has no legs, only wings, thus it has no choice but to fly. When it lands, that signifies its distruction.
+</p>
+
+<p align="center">
+I had once screamed, gradually I lost my voice. <br/>
+I had once cried, gradually I lost my tears. <br/>
+I had once grieved, gradually I became able to withstand anything. <br /> 
+I had once rejoiced, gradually I became unmoved by the world. <br />
+<br />
+Now, all I have left is an expressnionless face, my gaze as tough as a monolith, only perseverence remains in my heart, this is my own, insignificant charachter.
+</p>
