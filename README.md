@@ -38,7 +38,7 @@
 
 <p align="start">
 I like the footless bird, do you know why? <br />
-Because it has no legs, only wings, thus it has no choice but to fly. When it lands, that signifies its distruction.
+Because it has no legs, only wings, thus it has no choice but to fly. When it lands, that signifies its destruction
 </p>
 
 ---
