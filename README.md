@@ -30,12 +30,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mminusone&" alt="mminusone" /></p>
 
-<p align="center">
+---
+
+<p align="start">
 I like the footless bird, do you know why? <br />
 Because it has no legs, only wings, thus it has no choice but to fly. When it lands, that signifies its distruction.
 </p>
 
-<p align="center">
+---
+
+<p align="start">
 I had once screamed, gradually I lost my voice. <br/>
 I had once cried, gradually I lost my tears. <br/>
 I had once grieved, gradually I became able to withstand anything. <br /> 
