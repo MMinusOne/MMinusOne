@@ -1,5 +1,6 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
 <h4 align="center">I have dealt with so much software and CS that there is not a single mental illness I didn't manage to achieve.</h4>
+<h4>Indeed, a person is as old as his heart has aged.</h4>
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
