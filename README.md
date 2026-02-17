@@ -1,15 +1,15 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
-<h4 align="center">I have dealt with so much software and computer science, there is not a single mental illness I didn't manage to achieve.</h4>
-<h4 align="center">Currently improving-on: System Design, Computer Architecture, Networking, Type-Theory, Boolean Algebra, Machine Learning, Complexity-Theory</h3>
+<h4 align="center">I have dealt with so much software and CS that there is not a single mental illness I didn't manage to achieve.</h4>
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
   <img align="right" width="150" height="150" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
   <p>
-    Im currently in a book-reading phase, because Im bothered by academia and I can't work on many projects.<br/>
+    Currently reading a buncha books, because Im bothered by academia and I can't work on many real projects.<br/>
     I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
     mainly quant, for like the past two years. I want to do a bit of ML and scientific stuff too.<br/>
     Im working on my mathematics but it's difficult haha, a bit over-extending my time with that<br/>
+    Im trying to improve my weakest areas, and that would definitely be mathematics <br />
     Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard.
   </p>
 </div>
