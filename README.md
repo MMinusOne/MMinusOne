@@ -4,7 +4,7 @@
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
-  <img align="right" width="435" height="385" src="./toradora.png">
+  <img align="right" width="335" height="285" src="./toradora.png">
   <p>
     Currently reading a buncha books, because Im bothered by academia and I can't work on many real projects.<br/>
     I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
