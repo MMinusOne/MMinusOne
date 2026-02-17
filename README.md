@@ -4,7 +4,7 @@
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
-  <img align="right" width="150" height="150" src="https://media.discordapp.net/attachments/1193143655788183573/1462377287990378598/image.png?ex=6983107b&is=6981befb&hm=4120a21ecd835957e5431d55209ccd39473c73ea67863861e465e5aa22fb37bc&=&format=webp&quality=lossless&width=436&height=385">
+  <img align="right" width="435" height="385" src="./toradora.png">
   <p>
     Currently reading a buncha books, because Im bothered by academia and I can't work on many real projects.<br/>
     I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
@@ -54,4 +54,3 @@ Now, all I have left is an expressnionless face, my gaze as tough as a monolith,
 </p>
 
 ---
-
