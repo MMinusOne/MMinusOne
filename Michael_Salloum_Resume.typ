@@ -102,12 +102,12 @@ Software Developer, Intern
 
 - A primitive Operating System that runs on QEMU.
 
-== ACHIEVEMENTS
+= ACHIEVEMENTS
 
 - #strong()[1st Place]: USJ Computer Science Rally Paper.
 - #strong()[3rd Place]: AUST Cybersecurity competition.
 
-== Languages
+= Languages
 
 - #strong()[English]: Fluent.
 - #strong()[French]: Intermediate.
