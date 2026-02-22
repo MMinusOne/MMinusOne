@@ -102,9 +102,6 @@ Software Developer, Intern
 
 - A primitive Operating System that runs on QEMU.
 
-- A chess engine and desktop app in C\#/WPF, with full move validation, legal move highlighting, and per-piece logic.
-
-
 == ACHIEVEMENTS
 
 - #strong()[1st Place]: USJ Computer Science Rally Paper.
