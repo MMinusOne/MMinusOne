@@ -35,7 +35,7 @@
 
 #text(
   size: 0.8em,
-)[TypeScript/JavaScript #sep Node.js #sep Rust #sep C++ #sep C\# #sep Python #sep HTML/SCSS #sep XAML #sep Luau #sep Next.js #sep Angular #sep Astro #sep Tailwind #sep Electron #sep Express.js/Nest #sep Axum #sep WPF #sep Docker #sep Git/Github #sep Code Design #sep Linux #sep REST/gRPC #sep Concurrency #sep Computer Architecture #sep System Design #sep Operating Systems]
+)[TypeScript/JavaScript #sep Node.js #sep Rust #sep C++ #sep C\# #sep Python #sep HTML/SCSS #sep Typst #sep XAML #sep Luau #sep Next.js #sep Angular #sep Astro #sep Tailwind #sep Electron #sep Express.js/Nest #sep Axum #sep WPF #sep Docker #sep Git/Github #sep Code Design #sep Linux #sep REST/gRPC #sep Concurrency #sep Computer Architecture #sep System Design #sep Operating Systems]
 
 = WORK EXPERIENCE
 
@@ -86,7 +86,8 @@ Software Developer, Intern
 )
 
 - Automated video generation platform that attracted 300,000 monthly viewers when deployed.
-- Built with Remotion/Next.js/Node.js, Google Cloud, AWS Lambda, and AI-based content generation.
+- Built with Remotion/Next.js/Node.js.
+- Infrastructure managed with Google Cloud, Runpod, Contabo, and Garage S3 buckets.
 
 == #grid(
   columns: (1fr, 1fr),
