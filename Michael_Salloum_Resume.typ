@@ -85,9 +85,10 @@ Software Developer, Intern
   [FischerLabs], [#align(right)[April 2023]],
 )
 
-- Automated video generation platform that attracted 300,000 monthly viewers when deployed.
+- Automated systems for video generation that attracted 300,000 monthly viewers when deployed.
 - Built with Remotion/Next.js/Node.js.
 - Infrastructure managed with Google Cloud, Runpod, Contabo, and Garage S3 buckets.
+- Systems used a combination of LLMs(RAG, agentic loops...), and web scraping for data collection
 
 == #grid(
   columns: (1fr, 1fr),
@@ -110,6 +111,7 @@ Software Developer, Intern
 
 = Languages
 
-- #strong()[English]: Fluent.
-- #strong()[French]: Intermediate.
-- #strong()[Arabic]: Native.
+#text()[
+  #strong()[English]: Fluent. #sep #strong()[French]: Intermediate. #sep #strong()[Arabic]: Native.
+]
+
