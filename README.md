@@ -11,7 +11,8 @@
     mainly quant, for like the past two years. I want to do a bit of ML and scientific stuff too.<br/>
     Im working on my mathematics but it's difficult haha, a bit over-extending my time with that<br/>
     Im trying to improve my weakest areas, and that would definitely be mathematics <br />
-    Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard.
+    Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard, <br />
+    or will the keyboard die at my hands.
   </p>
 </div>
 <br clear="right"/>
@@ -42,15 +43,3 @@ I like the footless bird, do you know why? <br />
 Because it has no legs, only wings, thus it has no choice but to fly. When it lands, that signifies its destruction
 </p>
 
----
-
-<p align="start">
-I had once screamed, gradually I lost my voice. <br/>
-I had once cried, gradually I lost my tears. <br/>
-I had once grieved, gradually I became able to withstand anything. <br /> 
-I had once rejoiced, gradually I became unmoved by the world. <br />
-<br />
-Now, all I have left is an expressnionless face, my gaze as tough as a monolith, only perseverence remains in my heart, this is my own, insignificant charachter.
-</p>
-
----
