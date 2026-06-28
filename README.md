@@ -1,18 +1,11 @@
 <h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
-<h4 align="center">I have dealt with so much software and CS that there is not a single mental illness I didn't manage to achieve.</h4>
 <h4 align="center">Indeed, a person is as old as his heart has aged.</h4>
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
   <img align="right" width="174" height="154" src="./toradora.png">
   <p>
-    Currently reading a buncha books, because Im bothered by academia and I can't work on many real projects.<br/>
-    I've been looking more and more towards getting into more mathematics-heavy and low-level roles,<br/>
-    mainly quant, for like the past two years. I want to do a bit of ML and scientific stuff too.<br/>
-    Im working on my mathematics but it's difficult haha, a bit over-extending my time with that<br/>
-    Im trying to improve my weakest areas, and that would definitely be mathematics <br />
-    Im also crazy, clinically crazy. I wonder what will come first, will I die at the hands of my keyboard, <br />
-    or will the keyboard die at my hands.
+    Software Development, Mathematics, Computer Science.
   </p>
 </div>
 <br clear="right"/>
