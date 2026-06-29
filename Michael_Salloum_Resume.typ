@@ -67,13 +67,6 @@ Software Developer, Intern
 
 == #grid(
   columns: (1fr, 1fr),
-  [AniPlus], [#align(right)[September 2024]],
-)
-- Content streaming web platform for foreign media, built with Next.js, TailwindCSS, and DaisyUI.
-- Deployed on Coolify with CI/CD and version control via Github.
-
-== #grid(
-  columns: (1fr, 1fr),
   [AlgorithmicPlus], [#align(right)[June 2025]],
 )
 
@@ -82,13 +75,21 @@ Software Developer, Intern
 
 == #grid(
   columns: (1fr, 1fr),
-  [FischerLabs], [#align(right)[April 2023]],
+  [TA6P], [#align(right)[April 2023]],
 )
 
 - Automated systems for video generation that attracted 300,000 monthly viewers when deployed.
 - Built with Remotion/Next.js/Node.js.
 - Infrastructure managed with Google Cloud, Runpod, Contabo, and Garage S3 buckets.
 - Systems used a combination of LLMs(RAG, agentic loops...), and web scraping for data collection
+
+== #grid(
+  columns: (1fr, 1fr),
+  [AniPlus], [#align(right)[September 2024]],
+)
+- Content streaming web platform for foreign media, built with Next.js, TailwindCSS, and DaisyUI.
+- Deployed on Coolify with CI/CD and version control via Github.
+
 
 == #grid(
   columns: (1fr, 1fr),
