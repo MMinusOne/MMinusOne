@@ -106,7 +106,7 @@ Software Developer, Intern
 
 = ACHIEVEMENTS
 
-- #strong()[1st Place (July 2026)]: AUBMC competitive programming competition.
+- #strong()[1st Place (July 2026)]: AUB ACM competitive programming competition.
 - #strong()[1st Place (April 2025)]: USJ Computer Science Rally Paper.
 - #strong()[3rd Place (March 2025)]: AUST Cybersecurity competition.
 
