@@ -86,9 +86,9 @@ Software Developer, Intern
 )
 
 - Automated systems for video generation that attracted 300,000 monthly viewers when deployed.
-- Built with Remotion/Next.js/Node.js.
-- Infrastructure managed with Google Cloud, Runpod, Contabo, and Garage S3 buckets.
-- Systems used a combination of LLMs(RAG, agentic loops...), and web scraping for data collection
+- Built with Remotion, Bun, Python, Rust, TypeScript...
+- Infrastructure managed with Google Cloud, AWS, Runpod, Contabo, and Garage S3.
+- Systems used a combination of LLMs(RAG, agentic loops, vector embeddings...), and web scraping for data collection
 
 == #grid(
   columns: (1fr, 1fr),
@@ -106,8 +106,9 @@ Software Developer, Intern
 
 = ACHIEVEMENTS
 
-- #strong()[1st Place]: USJ Computer Science Rally Paper.
-- #strong()[3rd Place]: AUST Cybersecurity competition.
+- #strong()[1st Place (July 2026)]: AUBMC competitive programming competition.
+- #strong()[1st Place (April 2025)]: USJ Computer Science Rally Paper.
+- #strong()[3rd Place (March 2025)]: AUST Cybersecurity competition.
 
 = Languages
 
