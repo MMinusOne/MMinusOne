@@ -114,6 +114,6 @@ Software Developer, Intern
 = Languages
 
 #text()[
-  #strong()[English]: Fluent. #sep #strong()[French]: Intermediate. #sep #strong()[Arabic]: Native.
+  #strong()[English] #sep #strong()[French] #sep #strong()[Arabic]
 ]
 
