@@ -67,6 +67,16 @@ Software Developer, Intern
 
 == #grid(
   columns: (1fr, 1fr),
+  [EditorRs], [#align(right)[Currently]],
+)
+
+- A video editing engine made with Rust, based on video_rs and FFmpeg.
+- Can render videos at 24fps at 3x realtime speed.
+- Utilizes CPU parallelism with GPU for frame image rendering and muxing audio. 
+
+
+== #grid(
+  columns: (1fr, 1fr),
   [AlgorithmicPlus], [#align(right)[June 2025]],
 )
 
