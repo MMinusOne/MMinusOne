@@ -85,7 +85,7 @@ Software Developer, Intern
 
 == #grid(
   columns: (1fr, 1fr),
-  [TA6P], [#align(right)[April 2023]],
+  [TA6P], [#align(right)[April 2023, April 2026]],
 )
 
 - Automated systems for video generation that attracted 300,000 monthly viewers when deployed.
