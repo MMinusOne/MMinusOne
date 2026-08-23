@@ -11,7 +11,7 @@
 #let sep = [#h(0.02em) | #h(0.02em)]
 
 #pad(top: 2em)[#align(center)[#title("Michael Salloum")]]
-#text()[#align(center)[Fullstack Web & Systems Software Engineer]]
+#text()[#align(center)[Software Engineer | Full-Stack, Systems, and Performance-Oriented]]
 
 #align(center)[
   #grid(
@@ -24,7 +24,6 @@
     grid.vline(),
     [#pad(x: 0.7em)[#link("tel:+96170222870")]],
     grid.vline(),
-
     [#pad(x: 0.7em)[#link("https://github.com/MMinusOne")[github.com/MMinusOne]]],
     grid.vline(),
     [#pad(x: 0.7em)[#link("https://www.linkedin.com/in/michael-salloum-swe/")[linkedin.com/in/michael-salloum-swe]]],
@@ -33,95 +32,90 @@
 
 = SKILLS
 
-#text(
-  size: 0.8em,
-)[TypeScript/JavaScript #sep Node.js #sep Rust #sep C++ #sep C\# #sep Python #sep HTML/SCSS #sep Typst #sep XAML #sep Luau #sep Next.js #sep Angular #sep Astro #sep Tailwind #sep Electron #sep Express.js/Nest #sep Axum #sep WPF #sep Docker #sep Git/Github #sep Code Design #sep Linux #sep REST/gRPC #sep Concurrency #sep Computer Architecture #sep System Design #sep Operating Systems]
+#text(size: 0.8em)[
+  TypeScript/JavaScript #sep Node.js #sep Rust #sep C++ #sep C\# #sep Python #sep HTML/SCSS #sep Next.js #sep Angular #sep Astro #sep Tailwind #sep Electron #sep React #sep Express.js/Nest #sep Axum #sep WPF #sep Docker #sep Git/GitHub #sep Linux #sep REST/gRPC #sep Concurrency #sep Computer Architecture #sep System Design #sep Operating Systems #sep XAML #sep Luau #sep Typst
+]
 
 = WORK EXPERIENCE
 
 == #grid(
   columns: (1fr, 1fr),
   grid.cell()[PCandParts],
-  grid.cell()[#align(right)[
-    Jun 2024 - Sep 2024
-  ]],
+  grid.cell()[#align(right)[Jun 2024 - Sep 2024]],
 )
-Fulltime Technician & Software Developer
+Full-Time Technician & Software Developer
 
-- Developed internal business software that automate and streamline daily workflows with TypeScript, Electron & React.
-- Handled hardware/software troubleshooting and IT support for computer systems.
+- Built internal business software with TypeScript, Electron, and React to automate repetitive workflows and reduce manual operational overhead.
+- Delivered hardware and software troubleshooting for computer systems and supported day-to-day IT operations in a fast-paced business environment.
+- Collaborated with stakeholders to identify inefficiencies and translate them into practical, user-friendly software solutions.
 
 == #grid(
   columns: (1fr, 1fr),
   grid.cell()[MultiLane],
-  grid.cell()[#align(right)[
-    Jun 2025 - Sep 2025
-  ]],
+  grid.cell()[#align(right)[Jun 2025 - Sep 2025]],
 )
-Software Developer, Intern
+Software Developer Intern
 
-- Designed software based on C\#/WPF for the frontend, and C++ for the backend, bridging them together with C++/CLR applying MVVM, MVC and SOLID design patterns.
-- Worked with Angular/Azure/Python to develop an internal business solution as a web platform.
+- Designed desktop and business tooling using C\# and WPF for the frontend, paired with C++ services for backend logic and system-level integration.
+- Integrated components through C++/CLR, applying MVVM, MVC, and SOLID design principles to improve maintainability and extensibility.
+- Contributed to an internal Angular, Azure, and Python-based business platform, supporting web application development and enterprise workflow automation.
 
 = PROJECTS
 
 == #grid(
   columns: (1fr, 1fr),
-  [EditorRs], [#align(right)[Currently]],
+  [EditorRs], [#align(right)[Current]],
 )
 
-- A video editing engine made with Rust, based on video_rs and FFmpeg.
-- Can render videos at 24fps at 3x realtime speed.
-- Utilizes CPU parallelism with GPU for frame image rendering and muxing audio. 
-
+- Developed a Rust-based video editing engine using video-rs and FFmpeg focused on native performance and efficient media processing.
+- Achieved 24fps rendering with up to 3x real-time throughput by combining CPU parallelism with GPU-assisted frame processing and audio muxing.
 
 == #grid(
   columns: (1fr, 1fr),
   [AlgorithmicPlus], [#align(right)[June 2025]],
 )
 
-- Open-Source Rust & TypeScript framework for developing and optimizing algorithmic financial models, with concurrency and parallelism, and standard library of math functions & optimization algorithms.
-- Tauri-based TypeScript GUI with powerful charting tightly integrated with the backend.
+- Built an open-source Rust and TypeScript framework for algorithmic financial modeling, optimization, and numerical analysis.
+- Included a Tauri-based GUI with integrated charting and backend analytics for rapid experimentation and model iteration.
 
 == #grid(
   columns: (1fr, 1fr),
-  [TA6P], [#align(right)[April 2023, April 2026]],
+  [TA6P], [#align(right)[April 2023 - April 2026]],
 )
 
-- Automated systems for video generation that attracted 300,000 monthly viewers when deployed.
-- Built with Remotion, Bun, Python, Rust, TypeScript...
-- Infrastructure managed with Google Cloud, AWS, Runpod, Contabo, and Garage S3.
-- Systems used a combination of LLMs(RAG, agentic loops, vector embeddings...), and web scraping for data collection
+- Created automated content generation systems that reached approximately 300,000 monthly viewers, combining media production workflows and scalable cloud infrastructure.
+- Built the platform using Remotion, Bun, Python, Rust, and TypeScript, with deployment across Google Cloud, AWS, Runpod, Contabo, and Garage S3.
+- Integrated LLM workflows, RAG pipelines, agentic loops, vector embeddings, and web scraping to automate data collection and content generation.
 
 == #grid(
   columns: (1fr, 1fr),
   [AniPlus], [#align(right)[September 2024]],
 )
-- Content streaming web platform for foreign media, built with Next.js, TailwindCSS, and DaisyUI.
-- Deployed on Coolify with CI/CD and version control via Github.
 
+- Developed a streaming platform for foreign media content using Next.js, Tailwind CSS, and DaisyUI.
+- Deployed the application with Coolify and GitHub-based CI/CD workflows to support efficient release management.
 
 == #grid(
   columns: (1fr, 1fr),
   [Sharper], [#align(right)[July 2025]],
 )
 
-- Interpreted programming language built with C++ supporting variables, functions, loops, classes, operators, and a standard library.
+- Implemented an interpreted programming language in C++ with support for variables, functions, loops, classes, operators, and a standard library.
 
 == #grid(
   columns: (1fr, 1fr),
   [HenimiyaOS], [#align(right)[December 2025]],
 )
 
-- A primitive Operating System that runs on QEMU.
+- Built a minimal operating system that runs on QEMU, with a focus on low-level system design, process execution, and OS fundamentals.
 
 = ACHIEVEMENTS
 
-- #strong()[1st Place (July 2026)]: AUB ACM competitive programming competition.
+- #strong()[1st Place (July 2026)]: AUB ACM Competitive Programming Competition.
 - #strong()[1st Place (April 2025)]: USJ Computer Science Rally Paper.
-- #strong()[3rd Place (March 2025)]: AUST Cybersecurity competition.
+- #strong()[3rd Place (March 2025)]: AUST Cybersecurity Competition.
 
-= Languages
+= LANGUAGES
 
 #text()[
   #strong()[English] #sep #strong()[French] #sep #strong()[Arabic]
