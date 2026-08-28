@@ -1,5 +1,4 @@
-<h3 align="center">Fullstack web & systems developer, based-in Lebanon.</h3>
-<h4 align="center">Indeed, a person is as old as his heart has aged.</h4>
+<h3 align="center">Fullstack web & systems developer.</h3>
 <h5 align="end">Could add me on Discord: <b><u>MMinusOne</u></b> :3</h5>
 
 <div>
