@@ -4,7 +4,7 @@
 <div>
   <img align="right" width="174" height="154" src="./toradora.png">
   <p>
-    Software Development, Mathematics, Computer Science.
+     Computer Science, Mathematics.
   </p>
 </div>
 <br clear="right"/>
